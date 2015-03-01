@@ -1,3 +1,3 @@
 # Paystub-Scraper
 
-Not sure what I am doing, but I am trying to upload a file
+Going to attempt to use the 'requests' module to interact with the website and hopefully automate the extraction of all paystubs in the correct format
